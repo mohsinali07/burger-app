@@ -1,0 +1,14 @@
+.burger-size {
+    height: auto;
+    width: 45%;
+}
+
+.burger {
+    height: 70vh;
+    overflow: scroll;
+}
+
+.burger-bt-size {
+    height: auto;
+    width: 44%;
+}
